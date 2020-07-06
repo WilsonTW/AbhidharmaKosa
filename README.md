@@ -3,7 +3,7 @@
 
 [總論](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_Intro.md)
 1. [分別界品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_1.md)
-2. [分別根品]()
+2. [分別根品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_2.md)
 3. [分別世間品]()
 4. [分別業品]()
 5. [分別隨眠品]()
