@@ -201,6 +201,8 @@
 
 **大地法(10)**
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/3.png" width="80%" height="80%"/>
+
 1.  大：週遍
 2.  地：所行處之心王, 心起處
 3.  法：心所法
@@ -287,6 +289,8 @@
 4.  定品詳說
 
 **大善地法：與一切善心俱起, 體惟善性(10)**
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/4.png" width="80%" height="80%"/>
 
 1.  信
 2.  不放逸
@@ -379,6 +383,8 @@
 
 **大煩惱地法(6)**
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/5.png" width="80%" height="80%"/>
+
 1.  遍一切不善煩惱心：當一有**不善**和**煩惱**心念起來時, 此六心所必俱起
 2.  **煩惱**：對身心的擾亂, 令不自在念稱”煩惱”,
 3.  **不**善：對他起惡念謂不善
@@ -428,6 +434,8 @@
 
 **大不善地法(2)**
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/6.png" width="80%" height="80%"/>
+
 1.  遍一切不善心的心理作用
 
 **無慚**
@@ -441,6 +449,8 @@
 2.  對自己所造之惡, 觀他無恥說名為愧
 
 **小煩惱地法(10)**
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/7.png" width="80%" height="80%"/>
 
 1.  無明相應,  個別起,  唯第六意識相應,  修所斷
 
@@ -495,6 +505,8 @@
 
 **不定地法(8)**
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/8.png" width="80%" height="80%"/>
+
 1.  有個別作用：不攝於前五法中
 2.  性質不定：有些法可通善, 惡, 無記三性
 3.  八種：**尋, 伺, 睡眠, 惡作, 貪, 嗔, 慢, 疑**
@@ -540,6 +552,8 @@
 			7. 邪慢：邪見所產生的傲慢, 如以自作惡事為大功德斷滅論者的無因無果
 
 **不相應行法(14)**
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/9.png" width="80%" height="80%"/>
 
 1.  行蘊所攝(心所法 & 非心所法)其中之**非心所法**部分
 2.  非色法(物質)非心法(精神)
@@ -699,7 +713,7 @@
 	1.  有為法：生命的現象 —> 惑業苦的無始輪迴
 	2.  無為法：涅槃 —> 惑業苦的終止
 
-**說一切**有部(三種)：**
+**說一切有部(三種)：**
 
 1.  有為無為同一層次, 非理事之關係, 故有為無為不必然交涉相關
 
