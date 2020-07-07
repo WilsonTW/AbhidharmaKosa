@@ -4,7 +4,7 @@
 
 ## 總論
 
-![AbhidharmaKosa](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/1.png)
+![AbhidharmaKosa](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/2.png)
 
 **緣起** => **三法印**
 
