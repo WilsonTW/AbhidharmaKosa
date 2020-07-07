@@ -4,7 +4,7 @@
 
 ## 總論
 
-<img src="/WilsonTW/AbhidharmaKosa/blob/master/res/1.png" width="70%" height="70%"/>
+![AbhidharmaKosa](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/1.png)
 
 **緣起** => **三法印**
 
