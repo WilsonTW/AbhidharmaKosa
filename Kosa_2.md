@@ -42,7 +42,7 @@
 
 **因果論**
 
-<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/11.png" width="90%" height="90%"/>
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/11.png" width="80%" height="80%"/>
 
 1.  在時間空間上說明法與法之間的因果相互關係稱為因果論
 2.  俱舍論將這些複雜的因果關係規範為**六因, 四緣, 五果**
