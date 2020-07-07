@@ -12,10 +12,12 @@
 4.  煩惱的分類
 5.  斷惑要旨
 
-1.  諸惑無再斷
-2.  九遍知
+6.  諸惑無再斷
+7.  九遍知
 
 **前言**
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/10.png" width="80%" height="80%"/>
 
 **惑—>業—>苦：惑是苦的根本因, 業是直接因**
 
@@ -191,12 +193,18 @@
 
 **斷惑要旨**
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/12.png" width="80%" height="80%"/>
+
 **斷惑四因**
 
 1.  遍知所緣
 2.  斷彼能緣
 3.  斷彼所緣
 4.  對治起故斷
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/13.png" width="80%" height="80%"/>
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/14.png" width="80%" height="80%"/>
 
 **前三為斷見惑因, 第四為斷思惑因**
 
