@@ -4,6 +4,8 @@
 
 ## 總論
 
+<img src="/WilsonTW/AbhidharmaKosa/blob/master/res/1.png" width="70%" height="70%"/>
+
 **緣起** => **三法印**
 
  - 諸行無常 
