@@ -5,7 +5,7 @@
 
 <img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/1_1.png" width="80%" height="80%"/>
 
-[總論](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_Intro.md)
+0. [總論](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_Intro.md)
 1. [分別界品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_1.md)
 2. [分別根品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_2.md)
 3. [分別世間品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_3.md)
