@@ -324,7 +324,7 @@
 4.  中忍位減緣減行：減所緣(四諦)，減行相(十六行相)
 5.  上品忍位唯觀欲苦諦之一行相
 
-<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/16.png" width="54%" height="54%"/>
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/16.png" width="50%" height="50%"/>
 
 #### 減緣減行
 
