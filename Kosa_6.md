@@ -324,6 +324,8 @@
 4.  中忍位減緣減行：減所緣(四諦)，減行相(十六行相)
 5.  上品忍位唯觀欲苦諦之一行相
 
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/16.png" width="90%" height="90%"/>
+
 #### 減緣減行
 
 1.  第一輪從觀欲界苦諦的無常行相起觀，一直觀到第三十一個，即是上二界道諦的「行」行相，略減去「出」行相不觀
