@@ -366,3 +366,5 @@
 3.  第一諦下皆有”忍”與”智”二心，故共有十六心
 4.  欲界稱為”法智”，上二為”類智”，以性質類似
 5.  前十五心為見道(初果向)，第十六心入修道(初果)
+
+<img src="https://github.com/WilsonTW/AbhidharmaKosa/blob/master/res/17.png" width="50%" height="50%"/>
