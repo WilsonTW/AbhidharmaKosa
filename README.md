@@ -14,4 +14,3 @@
 6. [分別賢聖品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_6.md)
 7. [分別智品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_7.md)
 8. [分別定品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_8.md)
-9. [破我品](https://github.com/WilsonTW/AbhidharmaKosa/blob/master/Kosa_9.md)
